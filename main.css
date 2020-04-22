@@ -1,23 +1,26 @@
 body {
   padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  font-family: sans-serif;
+  height: 100vh;
+}
+
+.content {
+  width: 100%;
 }
 
 .thumbnail {
   position: relative;
   display: flex;
+  justify-content: center;
   width: 60%;
   padding: 0;
-  padding-top: 36%;
+  padding-top: 35%;
   margin: auto;
-
-  background: black;
-}
-
-@media only screen and (max-width: 600px) {
-  .thumbnail {
-    width: 100%;
-    padding-top: 60%;
-  }
+  background-color: white;
 }
 
 .generator,
@@ -25,10 +28,21 @@ body {
   text-align: center;
 }
 
+.generator {
+  padding: 16px;
+  background-color: black;
+  color: white;
+  margin: 0;
+}
+
+.title {
+  background-color: white;
+}
+
 .philosophy,
 .issue,
 .medium {
-  width: 40%;
+  width: 37%;
   height: 50%;
   display: block;
   margin: 0;
@@ -37,4 +51,52 @@ body {
   background-repeat: no-repeat;
   background-size: contain;
   position: absolute;
+}
+
+.play {
+  height: 50px;
+  width: 50px;
+  background-image: url("https://res.cloudinary.com/dve2z73dr/image/upload/v1587530832/pngkey.com-play-png-4851_udxucq.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+
+  position: absolute;
+  bottom: -5px;
+  left: -0.5px;
+  height: 64%;
+  width: 100%;
+  z-index: 100;
+  opacity: 0.8;
+}
+
+.yt {
+  max-width: 40px;
+  height: auto;
+  margin-right: 12px;
+}
+
+.channel {
+  margin-left: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.footer {
+  margin-top: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+  .thumbnail {
+    width: 100%;
+    padding-top: 60%;
+  }
+
+  .play {
+    bottom: -8px;
+    left: -1px;
+  }
 }

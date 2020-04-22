@@ -97,7 +97,7 @@ const philosophies = [
   {
     name: "Fascism",
     imgUrl:
-      "https://res.cloudinary.com/dve2z73dr/image/upload/v1587433270/adolf-hitler-nazi-germany-second-world-war-downfall-adolf-hitler_cs9tgk.jpg",
+      "https://res.cloudinary.com/dve2z73dr/image/upload/v1587454747/5bbf09fecdc2a-removebg-preview_vcb3wo.png",
   },
 ];
 
@@ -109,208 +109,236 @@ const issues = [
   },
   {
     name: "Racism",
-    imageUrl:
+    imgUrl:
       "https://res.cloudinary.com/dve2z73dr/image/upload/v1587434863/charlottesville_ddwfot.png",
   },
   {
     name: "Trans-exclusionary Radical Feminism",
-    imageUrl:
+    imgUrl:
       "https://res.cloudinary.com/dve2z73dr/image/upload/v1587434913/1496493576402_hpfx6g.jpg",
   },
   {
     name: "Eco-terrorism",
-    imageUrl:
+    imgUrl:
       "https://res.cloudinary.com/dve2z73dr/image/upload/v1587437071/latest_ab6jxr.png",
   },
   {
     name: "Sexual Liberation",
-    imageUrl:
+    imgUrl:
       "https://res.cloudinary.com/dve2z73dr/image/upload/v1587437356/c351bb9144b14049a92fd7ce8429e634_gzlgkc.jpg",
   },
   {
     name: "Abortion Rights",
-    imageUrl:
-      "https://res.cloudinary.com/dve2z73dr/image/upload/v1587437429/sipaphotosthree072008-sipausa.30068566000008.sm-a_adbrj2.jpg",
+    imgUrl:
+      "https://res.cloudinary.com/dve2z73dr/image/upload/v1587527512/supremecourt_wide-dafda4641d4f4cb5556141933fdb43d82e68a2a9-s800-c85_rvxvyp.jpg",
   },
   {
     name: "White Supremecy",
-    imageUrl:
+    imgUrl:
       "https://res.cloudinary.com/dve2z73dr/image/upload/v1587437482/42-424413_kkk-freetoedit-ku-klux-klan_tnv3pb.png",
   },
   {
     name: "Global Poverty",
-    imageUrl:
+    imgUrl:
       "https://res.cloudinary.com/dve2z73dr/image/upload/v1587437623/relative-poverty-cover-500x350-c-default_ednt8n.jpg",
   },
   {
     name: "Class Consciousness",
-    imageUrl:
+    imgUrl:
       "https://res.cloudinary.com/dve2z73dr/image/upload/v1587438156/clipart-fox-robin-hood_llj24f.png",
   },
   {
     name: "the Exploitation of Labor",
-    imageUrl:
+    imgUrl:
       "https://res.cloudinary.com/dve2z73dr/image/upload/v1587437802/mcdonaldsworker031215_ygwf1n.jpg",
   },
   {
     name: "Private Property",
-    imageUrl:
+    imgUrl:
       "https://res.cloudinary.com/dve2z73dr/image/upload/v1587438279/private-property-no-outlet-stop-signature-sign-k2-1345_hkgy9b.png",
   },
   {
     name: "Free Speech",
-    imageUrl:
+    imgUrl:
       "https://res.cloudinary.com/dve2z73dr/image/upload/v1587438422/0502_free_speech_cxqauu.jpg",
   },
   {
     name: "Fossil Fuels",
-    imageUrl:
+    imgUrl:
       "https://res.cloudinary.com/dve2z73dr/image/upload/v1587438565/Crude-Oil-Barrel-Transparent-PNG_cv5l0f.png",
   },
   {
     name: "Technology",
-    imageUrl:
+    imgUrl:
       "https://res.cloudinary.com/dve2z73dr/image/upload/v1587438620/clipart-phone-phone-android-9_ntayxk.png",
   },
   {
     name: "Online Radicalization",
-    imageUrl:
+    imgUrl:
       "https://res.cloudinary.com/dve2z73dr/image/upload/v1587438990/5845cd230b2a3b54fdbaecf7_upey1u.png",
   },
   {
     name: "Dialectic",
-    imageUrl:
+    imgUrl:
       "https://res.cloudinary.com/dve2z73dr/image/upload/v1587439163/Hegel_by_Schlesinger_igwnwh.jpg",
   },
   {
     name: "Healthcare",
-    imageUrl:
-      "https://res.cloudinary.com/dve2z73dr/image/upload/v1587439488/nursing-health-professional-health-care-hospital-nurse_znctac.jpg",
+    imgUrl:
+      "https://res.cloudinary.com/dve2z73dr/image/upload/v1587513266/nursing-health-professional-health-care-hospital-nurse_znctac-removebg-preview_oey6bp.png",
   },
   {
     name: "Immigration",
-    imageUrl:
+    imgUrl:
       "https://res.cloudinary.com/dve2z73dr/image/upload/v1587439572/Statue-of-Liberty-Transparent-Background_ewm2tg.png",
   },
   {
     name: "Celebrity Worship",
-    imageUrl:
-      "https://res.cloudinary.com/dve2z73dr/image/upload/v1587439753/kim-kardashian-png-clipart_wvzqch.jpg",
+    imgUrl:
+      "https://res.cloudinary.com/dve2z73dr/image/upload/v1587526810/kim-kardashian-png-clipart_wvzqch-removebg-preview_pnxifx.png",
   },
   {
     name: "Ethics in Video Game Journalism",
-    imageUrl:
+    imgUrl:
       "https://res.cloudinary.com/dve2z73dr/image/upload/v1587439832/kotaku-logo-png-5_vyojbi.png",
   },
   {
     name: "The Soviet Union",
-    imageUrl:
+    imgUrl:
       "https://res.cloudinary.com/dve2z73dr/image/upload/v1587438054/thediplomat-11750484506_08ccd2cd8e_b_mjf1ki.jpg",
   },
 ];
 
 const media = [
-  { name: "Angry Birds", imageUrl: "" },
+  {
+    name: "Angry Birds",
+    imgUrl:
+      "https://res.cloudinary.com/dve2z73dr/image/upload/v1587514707/hiclipart.com_bac1l8.png",
+  },
   {
     name: "Katamari Damacy",
-    imageUrl:
-      "https://res.cloudinary.com/dve2z73dr/image/upload/v1587440403/kisspng-katamari-damacy-diamant-koninkrijk-koninkrijk-comp-prince-5abe7ca7aa58a5.6750333715224331916978_fmiahq.jpg",
+    imgUrl:
+      "https://res.cloudinary.com/dve2z73dr/image/upload/v1587514209/kisspng-katamari-damacy-diamant-koninkrijk-koninkrijk-comp-prince-5abe7ca7aa58a5-removebg-preview_whsikw.png",
   },
   {
     name: "Parks and Rec",
-    imageUrl:
+    imgUrl:
       "https://res.cloudinary.com/dve2z73dr/image/upload/v1587440646/tumblr_static_tumblr_static_6kcpkr4hrhgk4gg04o4kcc4ks_640_sqdazc.png",
   },
   {
     name: "The Secret Life of Pets",
-    imageUrl:
+    imgUrl:
       "https://res.cloudinary.com/dve2z73dr/image/upload/v1587440864/pets_fhozer.png",
   },
   {
     name: "2 Fast 2 Furious",
-    imageUrl:
-      "https://res.cloudinary.com/dve2z73dr/image/upload/v1587441038/fast-and-furious-collection-folder-icon-pack-2-fast-2-furious-png-icon-thumbnail_dxsahj.jpg",
+    imgUrl:
+      "https://res.cloudinary.com/dve2z73dr/image/upload/v1587514026/2-fast-2-furious-poster_qdvvk3.jpg",
   },
   {
     name: "Game of Thrones",
-    imageUrl:
+    imgUrl:
       "https://res.cloudinary.com/dve2z73dr/image/upload/v1587441130/dcrioxu-f14c376e-a0b8-4cc9-8c39-04f1c5665950.png_sgghx6.png",
   },
   {
     name: "Peppa Pig",
-    imageUrl:
+    imgUrl:
       "https://res.cloudinary.com/dve2z73dr/image/upload/v1587441216/peppa_george_characters_rekk11.png",
   },
   {
     name: "Two and a Half Men",
-    imageUrl:
+    imgUrl:
       "https://res.cloudinary.com/dve2z73dr/image/upload/v1587441487/1024-removebg-preview_gsywyc.png",
   },
   {
     name: "RuPaul's Drag Race",
-    imageUrl:
+    imgUrl:
       "https://res.cloudinary.com/dve2z73dr/image/upload/v1587441644/rupaul-7-png-1001571263906jqiedkjo6p_qcxlbx.png",
   },
   {
     name: "Roblox",
-    imageUrl:
+    imgUrl:
       "https://res.cloudinary.com/dve2z73dr/image/upload/v1587441998/roblox_orpl2y.png",
   },
   {
     name: "Five Nights at Freddy's",
-    imageUrl:
+    imgUrl:
       "https://res.cloudinary.com/dve2z73dr/image/upload/v1587442051/74aefb7d75053c0e6ea85db8b54ba68d_five-nights-at-freddys-fivenightsatfreddys_3840-2160_qbe4wl.png",
   },
   {
     name: "Super Mario Land 2: 6 Golden Coins",
-    imageUrl:
+    imgUrl:
       "https://res.cloudinary.com/dve2z73dr/image/upload/v1587442122/91x1gsV0G3L._SL1500__sz6cbk.jpg",
   },
   {
     name: "Crash Team Racing",
-    imageUrl:
+    imgUrl:
       "https://res.cloudinary.com/dve2z73dr/image/upload/v1587442179/d8bho0k-4f282599-4985-468f-a937-cb599a52c59d.png_rxmmi5.png",
   },
   {
     name: "Dr. Robotnik's Mean Bean Machine",
-    imageUrl:
+    imgUrl:
       "https://res.cloudinary.com/dve2z73dr/image/upload/v1587442245/latest_r0xndw.png",
   },
   {
     name: "Fallout: 76",
-    imageUrl:
+    imgUrl:
       "https://res.cloudinary.com/dve2z73dr/image/upload/v1587442301/100-1007257_jpg-transparent-library-fallout-vault-png-fallout-png_u3krgx.png",
   },
   {
     name: "Star Wars: The Clone Wars",
-    imageUrl:
+    imgUrl:
       "https://res.cloudinary.com/dve2z73dr/image/upload/v1587442380/MV5BZWFlNzRmOTItZjY1Ni00ZjZkLTk5MDgtOGFhOTYzNWFhYzhmXkEyXkFqcGdeQXVyMDM2NDM2MQ_._V1__pqyjqm.jpg",
   },
   {
     name: "Fuller House",
-    imageUrl:
+    imgUrl:
       "https://res.cloudinary.com/dve2z73dr/image/upload/v1587442437/download_auleji.png",
   },
   {
     name: "Grey's Anatomy",
-    imageUrl:
-      "https://res.cloudinary.com/dve2z73dr/image/upload/e_bgremoval/v1587442495/jessica-capshaw-grey-s-anatomy-april-kepner-meredith-grey-alex-karev-grey-anatomy_dtxmzh.jpg",
+    imgUrl:
+      "https://res.cloudinary.com/dve2z73dr/image/upload/v1587526643/237-2377943_greys-anatomy-derek-and-meredith-removebg-preview_iexht4.png",
   },
   {
     name: "Steven Universe",
-    imageUrl:
-      "https://res.cloudinary.com/dve2z73dr/image/upload/e_bgremoval/v1587442598/file-history-steven-universe-1156290095261iaa8uyqk_ywpfyy.png",
+    imgUrl:
+      "https://res.cloudinary.com/dve2z73dr/image/upload/v1587533505/latest_ztf8p1.png",
   },
   {
     name: "Barbie: Fairytopia",
-    imageUrl:
+    imgUrl:
       "https://res.cloudinary.com/dve2z73dr/image/upload/v1587442722/51XV9GPYXGL._SY445__swgaob.jpg",
   },
   {
     name: "Candy Crush Saga",
-    imageUrl:
-      "https://res.cloudinary.com/dve2z73dr/image/upload/v1587442795/candy-crush-saga-candy-crush-jelly-saga-king-android-candy-crush_mkmtw8.jpg",
+    imgUrl:
+      "https://res.cloudinary.com/dve2z73dr/image/upload/v1587514816/kisspng-candy-crush-saga-candy-crush-jelly-saga-king-andro-candy-crush-5b3169d3b12741.2344771715299650117256_uyzyqx.png",
   },
+];
+
+const backgrounds = [
+  "linear-gradient(90deg, rgba(54,48,163,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%)",
+  "#75e091",
+  "radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%)",
+  "#f5691d",
+  "linear-gradient(90deg, #FEE140 0%, #FA709A 100%)",
+  "#91fad7",
+  "radial-gradient( circle 827px at 47.3% 48%,  rgba(255,255,255,1) 0%, rgba(138,192,216,1) 90%)",
+  "#c4b4d6",
+  "radial-gradient( circle 523px at 7.1% 19.3%,  rgba(147,15,255,1) 2%, rgba(5,49,255,1) 100.7% )",
+  "lightgrey",
+  "linear-gradient( 109.6deg,  rgba(114,210,39,1) 11.3%, rgba(182,235,141,1) 100.2% )",
+  "radial-gradient(circle, rgba(246,245,254,1) 11%, rgba(210,226,235,1) 26%, rgba(114,223,245,1) 100%)",
+  "linear-gradient(0deg, #08AEEA 0%, #2AF598 100%)",
+  "linear-gradient(180deg, #FFFFFF 0%, #6284FF 50%, #FF0000 100%)",
+  "linear-gradient( 90.5deg,  rgba(250,156,245,1) 1.6%, rgba(182,76,233,1) 98.2% )",
+  "cornflowerblue",
+  "linear-gradient( 89.9deg,  rgba(255,18,18,1) -2.8%, rgba(252,246,19,1) 50.8%, rgba(0,159,8,1) 107.9% )",
+  "linear-gradient( 111.5deg,  rgba(249,230,1,1) 9.9%, rgba(249,144,1,1) 19.4%, rgba(255,22,22,1) 29.2%, rgba(255,22,133,1) 37.7%, rgba(255,22,197,1) 47.7%, rgba(232,22,255,1) 53.9%, rgba(162,22,255,1) 60%, rgba(80,22,255,1) 68.8%, rgba(22,104,255,1) 74.2%, rgba(22,168,255,1) 77.6%, rgba(22,255,220,1) 86.7%, rgba(22,255,179,1) 92.5%, rgba(22,255,109,1) 97.1%, rgba(92,255,22,1) 103.5% )",
+  "linear-gradient( 179deg,  rgba(255,129,27,1) -27.5%, rgba(245,255,56,1) 94.7% )",
+  "radial-gradient( circle farthest-corner at 10% 20%,  rgba(43,194,57,1) 0%, rgba(149,250,113,1) 90% )",
+  "linear-gradient( 79.8deg,  rgba(101,132,154,1) 3.2%, rgba(160,197,201,1) 89.1% )",
 ];
 
 const videoTitleElem = document.querySelector(".title");
@@ -325,29 +353,40 @@ function getRandomInt(min, max) {
   return Math.floor(Math.random() * (max - min)) + min;
 }
 
-const philosophy = getRandomItem(philosophies);
-const issue = getRandomItem(issues);
-const medium = getRandomItem(media);
-
 const philosophyElem = document.querySelector(".philosophy");
 const issueElem = document.querySelector(".issue");
 const mediumElem = document.querySelector(".medium");
+const thumbnailElem = document.querySelector(".thumbnail");
 
-function placePhil() {
+function placePhil(philosophy) {
   philosophyElem.style.backgroundImage = `url("${philosophy.imgUrl}")`;
-  // philosophyElem.style.backgroundImage = `url("https://res.cloudinary.com/dve2z73dr/image/upload/v1587454747/5bbf09fecdc2a-removebg-preview_vcb3wo.png")`;
-  philosophyElem.style.top = `${getRandomInt(0, 50)}%`;
+  philosophyElem.style.top = `${getRandomInt(40, 45)}%`;
   philosophyElem.style.left = `${getRandomInt(0, 6)}%`;
 }
 
-function placeIssue() {
-  console.log(issue);
+function placeIssue(issue) {
   issueElem.style.backgroundImage = `url("${issue.imgUrl}")`;
-  // philosophyElem.style.backgroundImage = `url("https://res.cloudinary.com/dve2z73dr/image/upload/v1587454747/5bbf09fecdc2a-removebg-preview_vcb3wo.png")`;
-  issueElem.style.top = `${getRandomInt(5, 55)}%`;
-  issueElem.style.left = `${getRandomInt(36, 42)}%`;
+  issueElem.style.top = `${getRandomInt(0, 20)}%`;
+  issueElem.style.left = `${getRandomInt(32, 36)}%`;
 }
 
-videoTitleElem.textContent = `${philosophy.name} and ${issue.name} in ${medium.name}`;
-placePhil();
-placeIssue();
+function placeMedium(medium) {
+  mediumElem.style.backgroundImage = `url("${medium.imgUrl}")`;
+  mediumElem.style.top = `${getRandomInt(25, 40)}%`;
+  mediumElem.style.left = `${getRandomInt(60, 63)}%`;
+}
+
+function init() {
+  const philosophy = getRandomItem(philosophies);
+  const issue = getRandomItem(issues);
+  const medium = getRandomItem(media);
+
+  placePhil(philosophy);
+  placeIssue(issue);
+  placeMedium(medium);
+
+  videoTitleElem.textContent = `${philosophy.name} and ${issue.name} in ${medium.name}`;
+  thumbnailElem.style.background = getRandomItem(backgrounds);
+}
+
+init();
