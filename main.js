@@ -389,4 +389,7 @@ function init() {
   thumbnailElem.style.background = getRandomItem(backgrounds);
 }
 
+const reload = document.querySelector(".reload");
+reload.addEventListener("click", init);
+
 init();
