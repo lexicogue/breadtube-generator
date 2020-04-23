@@ -360,20 +360,20 @@ const thumbnailElem = document.querySelector(".thumbnail");
 
 function placePhil(philosophy) {
   philosophyElem.style.backgroundImage = `url("${philosophy.imgUrl}")`;
-  philosophyElem.style.top = `${getRandomInt(40, 45)}%`;
+  philosophyElem.style.top = `${getRandomInt(5, 45)}%`;
   philosophyElem.style.left = `${getRandomInt(0, 6)}%`;
 }
 
 function placeIssue(issue) {
   issueElem.style.backgroundImage = `url("${issue.imgUrl}")`;
-  issueElem.style.top = `${getRandomInt(0, 20)}%`;
+  issueElem.style.top = `${getRandomInt(2, 20)}%`;
   issueElem.style.left = `${getRandomInt(32, 36)}%`;
 }
 
 function placeMedium(medium) {
   mediumElem.style.backgroundImage = `url("${medium.imgUrl}")`;
-  mediumElem.style.top = `${getRandomInt(25, 40)}%`;
-  mediumElem.style.left = `${getRandomInt(60, 63)}%`;
+  mediumElem.style.top = `${getRandomInt(15, 40)}%`;
+  mediumElem.style.left = `${getRandomInt(62, 64)}%`;
 }
 
 function init() {
